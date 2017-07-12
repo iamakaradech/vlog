@@ -9,6 +9,7 @@
       <li><a href="https://twitter.com/vuejs" target="_blank">Twitter</a></li>
       <br>
       <li><a href="http://vuejs-templates.github.io/webpack/" target="_blank">Docs for This Template</a></li>
+      <li><router-link to="/login">Login</router-link></li>
     </ul>
     <h2>Ecosystem</h2>
     <ul>
